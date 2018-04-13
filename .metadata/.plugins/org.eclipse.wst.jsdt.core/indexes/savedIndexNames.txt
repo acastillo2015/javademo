@@ -1,0 +1,6 @@
+INDEX VERSION 1.3+D:\BlueMix\Clientes LA\Chile\BCI\Workshop\javasqltutorial\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2548113959.index
+3946637447.index
+1976774328.index
+1367782111.index
+3934371152.index
