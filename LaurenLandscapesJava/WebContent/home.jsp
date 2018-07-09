@@ -91,7 +91,7 @@
   
  		<p>
 		
-			Lauren's Lovely Landsca is a collection of some of her favorite landscapes.  
+			Lauren's Lovely Landscape is a collection of some of her favorite landscapes.  
 			If you would like to purchase a print, please <a href="mailto:lauren@example.com">
 			e-mail Lauren</a> with the name	of the print.
 			
